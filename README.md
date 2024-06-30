@@ -1,2 +1,2 @@
 # CLI-Calculator-Project-0
-Simple Command Line Calculator
+In this calculator, the user should be able to do simple mathematical operations, such as addition, subtraction, multiplication, Division, Exponentiation, Modulus and, BMI for various numbers.
